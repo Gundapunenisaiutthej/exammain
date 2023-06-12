@@ -1,0 +1,58 @@
+.background
+{
+  background-color: rgb(36, 87, 173);
+  background-size: cover;
+  width:40vw;
+  height: 80vh;
+  padding: 100px;
+}
+.center-back{
+  padding:70px ;
+}
+.input-item
+{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+  background-color: rgb(248, 247, 246);
+  border-width: 0px;
+  outline: none;
+  padding-left: 20px;
+  width: 25vw;
+  
+}
+.item-1{
+  position: relative;
+
+
+}
+.bi-person-fill{
+ position: absolute;
+ top: 15px;
+}
+.bi-lock{
+ position: absolute;
+ left: 0px;
+ top: 15px;
+}
+::placeholder{
+  color: rgb(127, 255, 212);
+}
+.button{
+  font-weight: bold;
+  font-size: 24px;
+  border-radius: 0px;
+}
+.flex{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
+
+
+
+
+
+  
